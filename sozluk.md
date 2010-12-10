@@ -6,3 +6,4 @@ function: işlev
 expression: ifade
 consistent: uyumlu
 idiom: tarz
+specification: belirtim
