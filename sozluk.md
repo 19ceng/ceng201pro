@@ -7,3 +7,6 @@ expression: ifade
 consistent: uyumlu
 idiom: tarz
 specification: belirtim
+pointer: gösterici, işaretçi
+ADT: soyut veri türü
+
